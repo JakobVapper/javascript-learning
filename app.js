@@ -12,4 +12,6 @@ const person = {
 console.log(myName, myAge);
 console.log(myChildren);
 console.log(canRideBicycle);
-console.log(person);
+console.log(person, person.myName);
+
+// VARIABLE SCOPES
